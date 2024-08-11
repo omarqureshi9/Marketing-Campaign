@@ -23,9 +23,13 @@ Engagement Metrics: Data related to backer engagement, including the number of u
 Promotional Elements: Information about marketing and promotional strategies used during the campaign, such as the use of social media, email newsletters, and partnerships with influencers.
 ## Findings
 Through data preprocessing and visualization, the project found out that a campaign is deemed successful if the raised amount surpasses the goal amount. If the raised amount falls below the goal amount, the campaign is termed "not sucessful".
+![1](https://github.com/user-attachments/assets/fbffb77a-2a13-46a8-b6f2-3ef093d2bf84)
 
 
 Additionally, if the raised amount for a campaign is above 100,000, it is sucessful. If the raised amount is 60,000 or below, the campaign is more likely to be to be unsuccessful than sucessful. 
+![2](https://github.com/user-attachments/assets/ebd4c0b1-98ec-4ce8-888b-4bd2e44828d2)
+
+
 ## Contributing
 
 Feel free to fork the repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
